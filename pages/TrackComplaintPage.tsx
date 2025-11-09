@@ -5,7 +5,6 @@ import { Complaint, ComplaintStatus } from '../types';
 import { AlertTriangle, CheckCircle, Hourglass, List, Info, Calendar, MapPin, FileText, StickyNote } from 'lucide-react';
 
 const ComplaintDetails: React.FC<{ complaint: Complaint }> = ({ complaint }) => {
-  // FIX: Destructure i18n to get the current language direction.
   const { t, i18n } = useTranslation();
 
   const getStatusIcon = (status: ComplaintStatus) => {
