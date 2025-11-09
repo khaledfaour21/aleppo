@@ -1,0 +1,5 @@
+{
+  "name": "Complaint Management System – Aleppo Block 5",
+  "description": "A bilingual (Arabic/English) web application for citizens of 'Aleppo Block 5' to submit and track complaints anonymously. The system also provides public statistics, announcements, and achievements to promote transparency and community engagement.",
+  "requestFramePermissions": []
+}

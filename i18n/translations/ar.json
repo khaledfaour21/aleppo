@@ -1,0 +1,94 @@
+
+{
+  "appName": "نظام إدارة الشكاوى – حلب بلوك 5",
+  "nav": {
+    "home": "الرئيسية",
+    "submit": "تقديم شكوى",
+    "track": "تتبع الشكوى",
+    "stats": "الإحصائيات",
+    "announcements": "الإعلانات",
+    "achievements": "الإنجازات",
+    "faq": "الأسئلة الشائعة"
+  },
+  "home": {
+    "title": "أهلاً بكم في نظام شكاوى حلب بلوك 5",
+    "intro": "صوتك يهمنا. قدم وتتبع قضايا المجتمع لمساعدتنا في تحسين حَيِّنا معًا.",
+    "submitAction": "تقديم شكوى جديدة",
+    "trackAction": "تتبع شكواك"
+  },
+  "complaintForm": {
+    "title": "تقديم شكوى جديدة",
+    "type": "نوع الشكوى",
+    "urgency": "مستوى الأهمية",
+    "location": "الموقع",
+    "locationPlaceholder": "مثال: اسم الشارع، رقم المبنى، أو معلم بارز",
+    "description": "الوصف",
+    "descriptionPlaceholder": "يرجى وصف المشكلة بالتفصيل.",
+    "notes": "ملاحظات إضافية (اختياري)",
+    "notesPlaceholder": "أي معلومات إضافية.",
+    "contact": "رقم الاتصال",
+    "contactPlaceholder": "أدخل رقم هاتفك",
+    "attachment": "مرفقات (اختياري)",
+    "submitButton": "إرسال الشكوى",
+    "successTitle": "تم تقديم الشكوى!",
+    "successMessage": "شكرًا لتقديمك. رمز التتبع الخاص بك هو:",
+    "close": "إغلاق"
+  },
+  "complaintTypes": {
+    "Service": "خدمات",
+    "Electricity": "كهرباء",
+    "Water": "مياه",
+    "Cleanliness": "نظافة",
+    "Security": "أمن",
+    "Other": "أخرى"
+  },
+  "urgencyLevels": {
+    "Emergency": "طوارئ",
+    "Urgent": "عاجل",
+    "Normal": "عادي"
+  },
+  "trackPage": {
+    "title": "تتبع شكواك",
+    "enterId": "أدخل رمز التتبع الخاص بك",
+    "trackButton": "تتبع",
+    "notFound": "الشكوى غير موجودة. يرجى التحقق من الرمز والمحاولة مرة أخرى.",
+    "detailsTitle": "تفاصيل الشكوى",
+    "trackingId": "رمز التتبع",
+    "status": "الحالة",
+    "submittedOn": "تاريخ التقديم",
+    "lastUpdate": "آخر تحديث",
+    "type": "النوع",
+    "urgency": "الأهمية",
+    "location": "الموقع",
+    "description": "الوصف",
+    "statusHistory": "سجل الحالة",
+    "adminNotes": "ملاحظات الإدارة"
+  },
+  "complaintStatuses": {
+    "New": "جديدة",
+    "In Progress": "قيد المعالجة",
+    "Completed": "مكتملة"
+  },
+  "statsPage": {
+    "title": "الإحصائيات العامة",
+    "total": "إجمالي الشكاوى",
+    "completed": "المكتملة",
+    "pending": "المعلقة",
+    "byCategory": "الشكاوى حسب الفئة",
+    "monthlyTrend": "اتجاه الشكاوى الشهري"
+  },
+  "announcementsPage": {
+    "title": "الإعلانات"
+  },
+  "achievementsPage": {
+    "title": "الإنجازات"
+  },
+  "faqPage": {
+    "title": "الأسئلة الشائعة"
+  },
+  "footer": {
+    "copy": "© 2024 مجلس مجتمع حلب بلوك 5. جميع الحقوق محفوظة."
+  },
+  "theme": "المظهر",
+  "language": "اللغة"
+}
